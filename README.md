@@ -2,6 +2,8 @@
 
 ## Description
 
+The Book Search Engine is an application that utilizes the MERN stack: MongoDB, Express.js, React, and Node.js. This application is built with GraphQL API, Google Books API, and Apollo Server.
+
 ## Screenshot
 
 ![portfolio]()
