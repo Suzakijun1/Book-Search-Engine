@@ -1,10 +1,8 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import { Navbar, Nav, Container, Modal, Tab } from "react-bootstrap";
 import SignUpForm from "./SignupForm";
 import LoginForm from "./LoginForm";
-import { useMutation } from "@apollo/client";
-import { LOGIN_USER } from "../utils/mutations";
 import Auth from "../utils/auth";
 
 const AppNavbar = () => {
